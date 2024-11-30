@@ -114,7 +114,7 @@ st.sidebar.markdown(
 )
 st.sidebar.markdown(
     """
-    [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PravinRaj01/TaskScheduler-JamAI-.git)
+    [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PravinRaj01/ProductivityManager-JamAI.git)
     """,
     unsafe_allow_html=True
 )
